@@ -1,0 +1,4 @@
+Electronics,aaa,phone,10,45.0,apple,12
+Electronics,aaas,dsf,34,23.0,ttr,2
+Electronics,erw,fsd,44,456.0,tet,3
+Clothing,ery,dsgd,56,78.0,large,red
